@@ -47,3 +47,5 @@ Computadoras de escritorio (>1024px)
 Las tarjetas se organizan en tres columnas.
 
 Diseño base optimizado para pantallas grandes.
+
+Página implementada: https://kizunag.github.io/Dise-oresponsive/
